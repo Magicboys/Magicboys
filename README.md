@@ -1,7 +1,7 @@
 <h1> 👋 Welcome! </h1>
 
 <h2>A little about me:</h2>
-My name is Tyler and I'm an Software Developer studying Computer Science at Seattle Pacific University with an intended graduation of June, 2023. I'm passionate about making software that advances our civiliation in meaningful and powerful ways. 
+My name is Tyler and I'm an Software Developer studying Computer Science at Seattle Pacific University with an intended graduation of June, 2023. I'm passionate about making software that advances our civilization in meaningful and powerful ways. 
 <h2>My Skills:</h2>
 <p>
 • Fluent in Java, C#, C++, ReactJS, JS, HTML & CSS <br></br>
