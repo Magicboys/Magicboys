@@ -6,7 +6,7 @@ My name is Tyler and I'm an Software Developer studying Computer Science at Seat
 <p>
 • Fluent in Java, C#, C++, ReactJS, JS, HTML & CSS <br></br>
 • Jenkins, DevOps CICD Pipelines, Test Automation, Jira, Github, Gitlab, InteliJ, Microsoft Visual 
-Studio, Notion, Trello, Slack and Microsoft Teams 
+Studio, Notion, Trello, Slack, and Microsoft Teams. 
 </p>
 <h2>My Portfolio:</h2>
 <p>
